@@ -3,7 +3,6 @@ import sys
 
 n = int(raw_input().strip())
 s =raw_input().strip();
-new_s=[]
 k=int(raw_input().strip())
 
 azu=""
